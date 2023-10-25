@@ -1,6 +1,6 @@
 name: com.no-slopes.sprite-animations
 displayName: Sprite Animations
-description: A solution for animating sprite sheets in Unity.
+description: A smooth and intuitive way to work with spritesheets in Unity.
 repoUrl: 'https://github.com/no-slopes/sprite-animations'
 parentRepoUrl: null
 licenseSpdxId: MIT
